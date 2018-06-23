@@ -1,0 +1,13 @@
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.deps.json
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.runtimeconfig.json
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.runtimeconfig.dev.json
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.dll
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Services.Activities.pdb
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.csproj.CoreCompileInputs.cache
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.AssemblyInfoInputs.cache
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.AssemblyInfo.cs
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.csproj.CopyComplete
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.dll
+C:\Users\phamj\source\repos\Actio\src\Actio.Services.Activities\obj\Debug\netcoreapp2.0\Actio.Services.Activities.pdb
